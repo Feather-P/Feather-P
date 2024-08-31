@@ -37,3 +37,41 @@
 
 - **GitHub**：[https://github.com/Feather-P]()
 - **Email**：featherp@qq.com 📧
+
+---
+###English Version
+
+####About Me 🌟
+
+- A high school student from **China 🇨🇳**, hitting the books 📚
+  
+- Currently dipping my toes into learning **C++ and Python 🌱**
+  
+- Devoted to **web project deployment** and junior-level **🐧 Linux server operations**
+  
+
+---
+
+## Skill Tree 🚀
+
+- **Programming Languages:**
+  
+  - **C++:** 📝 Mastering basic syntax and diving into object-oriented programming
+  - **Python:** 🐍 Familiar with the basics, exploring data analysis and network programming
+- **Server Operations:**
+  
+  - **Linux:** 🖥️ Proficient with common commands, capable of basic server configuration
+  - **Docker & K8s:** 🐋 Knowledgeable about containerization technologies, deploying web services in containers
+
+---
+
+## Study Plan 📅
+
+- Busy with the **National College Entrance Examination (Gaokao)**
+
+---
+
+## Social Links 🔗
+
+- **GitHub:** [Feather-P](https://github.com/Feather-P)
+- **Email:** featherp@qq.com 📧
