@@ -39,9 +39,9 @@
 - **Email**：featherp@qq.com 📧
 
 ---
-###English Version
+## English Version:
 
-####About Me 🌟
+## About Me 🌟
 
 - A high school student from **China 🇨🇳**, hitting the books 📚
   
